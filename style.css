@@ -256,7 +256,7 @@ header {
   }
 
   nav ul li {
-    font-size: 13px;
+    font-size: 15px;
     letter-spacing: 0px;
   }
 
@@ -270,7 +270,7 @@ header {
   }
 
   .header-text {
-    padding-top: 50px;
+    padding-top: 30px;
     padding-left: 10px;
   }
 
@@ -284,8 +284,8 @@ header {
   }
 
   .pringles {
-    top: 55%;
-    left: 40%;
+    top: 60%;
+    left: 50%;
   }
 
   .circle {
